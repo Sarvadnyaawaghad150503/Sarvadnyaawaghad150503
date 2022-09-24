@@ -3,7 +3,7 @@
 <h1 align="center">I am Sarvadnya Awaghad</h1>
 
 
-- 🌱 I’m currently learning JAVA, DSA, 
+- 🌱 I’m currently learning JAVA, DSA, SQl
 - 💬 Ask me about communiccation skills, personality development
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
 
