@@ -28,8 +28,8 @@
 Here are some ideas to get you started:
 
   <div align="center">
-    <a href="https://NinadRao0707.github.io/NinadRao0707/">
-        <img src="https://github.com/NinadRao0707/NinadRao0707/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+    <a href="https://Sarvadnyaawaghad150503.github.io/Sarvadnyaawaghad150503/">
+        <img src="https://github.com/Sarvadnyaawaghad150503/Sarvadnyaawaghad150503/blob/output/github-contribution-grid-snake.svg" alt="snake" />
     </a>
 </div>
 <br>
