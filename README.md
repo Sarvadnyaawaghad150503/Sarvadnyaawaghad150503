@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I am Sarvadnya Awaghad</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh2902&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="sarvesh2902" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
 - 🌱 I’m currently learning JavaScript, Python
 - 💬 Ask me about communiccation skills, personality development
