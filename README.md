@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/sierra_alpha_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sierra_alpha_43" height="30" width="40" /></a>  
   <a href="https://www.facebook.com/sarvadnya.awaghad.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvadnya.awaghad" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/2021_sarvadnya_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2021_sarvadnya_1" height="30" width="40" /></a>
+  <a href="https://twitter.com/Sierra_alpha_43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarvadnyaawaghad" height="30" width="40" /></a>
 </p>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
