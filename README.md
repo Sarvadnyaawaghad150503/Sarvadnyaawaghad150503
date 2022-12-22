@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href"https://twitter.com/Sierra_alpha_43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarveshpatil_" height="30" width="40" /></a>
+
+<a href="https://twitter.com/Sierra_alpha_43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"sarvadnya-awaghad" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sarvadnya-awaghad-369411249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"sarvadnya-awaghad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sierra_alpha_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sierra_alpha_43" height="30" width="40" /></a>  
   <a href="https://www.facebook.com/sarvadnya.awaghad.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvadnya.awaghad" height="30" width="40" /></a>
