@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
 - 🌱 I’m currently learning JavaScript, Python
-- 💬 Ask me about communiccation skills, personality development
+- 💬 Ask me about communication skills, personality development
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
 
 <h3 align="left">Connect with me:</h3>
