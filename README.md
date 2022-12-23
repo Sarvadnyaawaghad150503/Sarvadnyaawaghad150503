@@ -8,7 +8,7 @@
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
   
   <h3 align="left">My Projects :</h3>
-  <a href "https://twitter-clone-sandy-xi.vercel.app/"> Twitter Clone : https://twitter-clone-sandy-xi.vercel.app/ </a>
+  <a href "https://twitter-clone-git-main-sarvadnyaawaghad150503.vercel.app/"> Twitter Clone : https://twitter-clone-sandy-xi.vercel.app/ </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
