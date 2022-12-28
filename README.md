@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
-- 🌱 I’m currently learning JavaScript, Python
+- 🌱 I’m currently learning React, Python
 - 💬 Ask me about communication skills, personality development
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
   
