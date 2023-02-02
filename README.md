@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi Folks<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">I am Sarvadnya Awaghad</h1>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
 - 🌱 I’m currently learning React, Python
@@ -29,7 +30,7 @@
    <a href="https://www.mysql.com/about/legal/logos.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="mySql" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<!--
+
 **Sarvadnyaawaghad150503/Sarvadnyaawaghad150503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
