@@ -3,7 +3,7 @@
 <h1 align="center">I am Sarvadnya Awaghad</h1>
   
   <a href=#><img src="contributions.svg"></a>
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
 - 🌱 I’m currently learning React, Python
