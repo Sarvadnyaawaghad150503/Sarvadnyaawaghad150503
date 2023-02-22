@@ -22,7 +22,7 @@
 </p>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
-  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://img.icons8.com/color/256/c-programming.png)" alt="c" width="40" height="40"/> </a> 
+  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-programming.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> 
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
