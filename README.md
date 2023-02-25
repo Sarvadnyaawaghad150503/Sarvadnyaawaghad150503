@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   <div align="center">
     <a href="https://Sarvadnyaawaghad150503.github.io/Sarvadnyaawaghad150503/">
-        <img src="https://github.com/Sarvadnyaawaghad150503/Sarvadnyaawaghad150503/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+       
     </a>
 </div>
 <br>
