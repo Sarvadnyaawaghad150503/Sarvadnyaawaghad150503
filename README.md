@@ -10,7 +10,7 @@
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
   
   <h3 align="left">My Projects :</h3>
- Twitter Clone - https://twitter-clone-39rgcinrc-sarvadnyaawaghad150503.vercel.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
