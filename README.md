@@ -9,7 +9,7 @@
 - 💬 Ask me about communication skills, personality development
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
   
-  <h3 align="left">My Projects :</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
