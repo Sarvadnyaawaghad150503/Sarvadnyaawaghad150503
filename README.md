@@ -33,11 +33,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b" alt="git" width="40" height="40"/> </a>
 
-  
+  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvadnyaawaghad150503&show_icons=true&locale=en&layout=compact" alt="sarvadnyaawaghad150503" /></p>
-
+<br/> <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvadnyaawaghad150503&show_icons=true&locale=en" alt="sarvadnyaawaghad150503" /></p>
-
+<br/> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvadnyaawaghad150503&" alt="sarvadnyaawaghad150503" /></p>
 
 
