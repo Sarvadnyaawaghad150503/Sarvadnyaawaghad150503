@@ -34,7 +34,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b" alt="git" width="40" height="40"/> </a>
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvadnyaawaghad150503&show_icons=true&locale=en&layout=compact" alt="sarvadnyaawaghad150503" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvadnyaawaghad150503&show_icons=true&locale=en&layout=compact" alt="sarvadnyaawaghad150503" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvadnyaawaghad150503&show_icons=true&locale=en" alt="sarvadnyaawaghad150503" /></p>
 
