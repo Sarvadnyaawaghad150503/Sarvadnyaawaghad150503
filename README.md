@@ -40,6 +40,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvadnyaawaghad150503&" alt="sarvadnyaawaghad150503" /></p>
 
+[![Sarvadnya Awaghad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnyaawaghad150503&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 **Sarvadnyaawaghad150503/Sarvadnyaawaghad150503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
