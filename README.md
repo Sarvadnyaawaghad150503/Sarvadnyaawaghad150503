@@ -39,11 +39,11 @@
 [![@sarvadnyaawaghad150503's Holopin board](https://holopin.me/sarvadnyaawaghad150503)](https://holopin.io/@sarvadnyaawaghad150503)
 
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvadnyaawaghad150503&show_icons=true&locale=en&layout=compact" alt="sarvadnyaawaghad150503" /></p>
+<p align="center"<a href="https://github.com/Sarvadnyaawaghad150503" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnyaawaghad150503&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvadnyaawaghad150503&show_icons=true&locale=en" alt="sarvadnyaawaghad150503" /></p>
+<p align="center"<a href="http://www.github.com/Sarvadnyaawaghad150503"><img src="https://github-readme-stats.vercel.app/api?username=Sarvadnyaawaghad150503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="Sarvadnyaawaghad150503's GitHub stats" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvadnyaawaghad150503&" alt="sarvadnyaawaghad150503" /></p>
+<p align="center"<a href="http://www.github.com/Sarvadnyaawaghad150503"><img src="https://streak-stats.demolab.com/?user=Sarvadnyaawaghad150503&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 [![Sarvadnya Awaghad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnyaawaghad150503&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
