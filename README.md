@@ -13,25 +13,61 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sarvadnya-awaghad-369411249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"sarvadnya-awaghad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sierra_alpha_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sierra_alpha_43" height="30" width="40" /></a>  
-  <a href="https://www.facebook.com/sarvadnya.awaghad.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarvadnya.awaghad" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/2021_sarvadnya_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2021_sarvadnya_1" height="30" width="40" /></a>
-  <a href="https://twitter.com/Sierra_alpha_43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarvadnyaawaghad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarvadnya-awaghad/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sarvadnyaawaghad10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/Sierra_alpha_43">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sierra_alpha_43/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br>
+
+
+
+## 🔧 Languages and Tools
+
+<p align="center">
+
+- **Languages**:
+    ![Clang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+- **Web Development**:
+    
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+    ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+   
+
+- **Database**:
+    
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
+   
+
+- **Software and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </p>
-<p align="left">
-  <h3 align="left">Languages and Tools:</h3>
-  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-programming.png" alt="c" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="36" height="36" alt="C++" /></a> 
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" width="36" height="36" alt="Java" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/html-5--v1.png" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/css3.png" width="36" height="36" alt="CSS3" /></a>
-<a  href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/color/256/tailwindcss.png" width="36" height="36" alt="CSS3" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-   <a href="https://www.mysql.com/about/legal/logos.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="mySql" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b" alt="git" width="40" height="40"/> </a>
+<br>
 
 
 ## Badges
