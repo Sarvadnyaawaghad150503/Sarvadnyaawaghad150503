@@ -40,7 +40,7 @@
 
 ## Trophies
 
-https://github-profile-trophy.vercel.app/?username=Sarvadnyaawaghad150503&theme=radical
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sarvadnyaawaghad150503)](https://github-profile-trophy.vercel.app/?username=Sarvadnyaawaghad150503&theme=radical)
  
 <p align="center"<a href="https://github.com/Sarvadnyaawaghad150503" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvadnyaawaghad150503&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
