@@ -11,8 +11,8 @@
   
 
 
+## 🤝  Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sarvadnya-awaghad/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -72,11 +72,11 @@
 <br>
 
 
-## Badges
+## 🏆 Contribution Badges
 
 [![@sarvadnyaawaghad150503's Holopin board](https://holopin.me/sarvadnyaawaghad150503)](https://holopin.io/@sarvadnyaawaghad150503)
 
-## Trophies
+## 🏆 Git Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sarvadnyaawaghad150503)](https://github-profile-trophy.vercel.app/?username=Sarvadnyaawaghad150503&theme=radical)
  
@@ -85,6 +85,8 @@
 <p align="center"<a href="http://www.github.com/Sarvadnyaawaghad150503"><img src="https://github-readme-stats.vercel.app/api?username=Sarvadnyaawaghad150503&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="Sarvadnyaawaghad150503's GitHub stats" /></a></p>
 
 <p align="center"<a href="http://www.github.com/Sarvadnyaawaghad150503"><img src="https://streak-stats.demolab.com/?user=Sarvadnyaawaghad150503&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+## ⚡ Recent GitHub Activity
 
 [![Sarvadnya Awaghad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnyaawaghad150503&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
