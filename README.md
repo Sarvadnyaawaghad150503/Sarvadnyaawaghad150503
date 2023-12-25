@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarvadnyaawaghad150503&label=Profile%20views&color=3382ed&style=for-the-badge&label=VISITORS" alt="Sarvadnyaawaghad150503" /> </p>
   
-- 💬 Ask me about communication skills, personality development
+- 💬 Ask me about communication skills and personality development
 - 📫 You can reach out to me at: sarvadnyaawaghad10@gmail.com
   
 
