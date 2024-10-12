@@ -90,7 +90,7 @@
 
 ## ⚡ Recent GitHub Activity
 
-[![Sarvadnya Awaghad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnyaawaghad150503&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sarvadnya Awaghad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarvadnyaawaghad150503&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/Sarvadnyaaawaghad150503/github-readme-activity-graph)
 
 
 **Sarvadnyaawaghad150503/Sarvadnyaawaghad150503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
